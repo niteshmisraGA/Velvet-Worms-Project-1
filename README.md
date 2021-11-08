@@ -1,22 +1,29 @@
 # Velvet-Worms-Project-1
 
 # Project Overview
-
+I will begin with completing a fair chunk of the JS work. To see how well the JS works I will use the DOM to show
 ## Project Name
-
-The name of your project.
+"Ask The Cosmos"
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+In this project I will create a site that will 'answer' a question with either a 'Yes' or 'No' accompanied with an embedded GIF.  A user's will be confirmed as a question by checking for the presence of a '?'. 
 
 ## API and Data Sample
 
-Specify the API you are using and include a link. Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
+I will be using the "YesOrNo" API: http://yesno.wtf/api/
+
+Sample JSON: 
+    
+    "answer": "yes",
+    "forced": false,
+    "image": "https://yesno.wtf/assets/yes/5-64c2804cc48057b94fd0b3eaf323d92c.gif"
+}
+
 
 ## Wireframes
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
+Mobile: [(https://i.imgur.com/eef1uNB.png)]
 
 ### MVP/PostMVP
 
@@ -27,7 +34,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 - Find and use external api 
 - Render data on page 
-- Allow user to choose favorites 
+- Save user input history on page
 
 #### PostMVP  
 *These are examples only. Replace with your own Post-MVP features.*
