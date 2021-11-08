@@ -23,7 +23,11 @@ Sample JSON:
 
 ## Wireframes
 
-Mobile: https://i.imgur.com/eef1uNB.png
+Mobile: 
+https://imgur.com/3hlAEOa.jpg
+
+Desktop:
+https://imgur.com/eef1uNB.jpg
 
 ### MVP/PostMVP
 
