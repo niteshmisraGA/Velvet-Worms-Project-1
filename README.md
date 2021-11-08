@@ -24,10 +24,10 @@ Sample JSON:
 ## Wireframes
 
 Mobile: 
-https://imgur.com/3hlAEOa.jpg
+(https://imgur.com/3hlAEOa.jpg)
 
 Desktop:
-https://imgur.com/eef1uNB.jpg
+(https://imgur.com/eef1uNB.jpg)
 
 ### MVP/PostMVP
 
